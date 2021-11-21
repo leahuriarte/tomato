@@ -52,7 +52,7 @@ class Predict:
             elif pred == "Targetspot":
                 st.subheader("It looks like your tomato plant has target spot, a disease caused by the fungus Corynespora cassiicola. Target spot can remain in plant residue for up to two years, so remove old plant disease at the end of the growing season. ")
             elif pred == "Yellowleafcurlvirus":
-                st.subheader("it looks like your tomato plant has yellow lead curl virus, a DNA virus. The virus can infect a wide variety of plants, and is typically spread by whiteflies.")
+                st.subheader("it looks like your tomato plant has yellow leaf curl virus, a DNA virus. The virus can infect a wide variety of plants, and is typically spread by whiteflies.")
             elif pred == "Leafmold":
                 st.subheader("It looks like your tomato plant has leaf mold. Leaf mold is a fungal virus that is commonly developed by tomatoes in very humid environments. Remove all infected plant material from your garden.")
             elif pred == "Mosaicvirus":
